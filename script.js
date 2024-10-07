@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'IMAGENES/coldplay-1.jpeg',
+        img : 'coldplay-1.jpeg',
         name : 'Viva la vida',
         artist : 'Coldplay',
-        music : 'MUSICA/Viva-La-Vida.mp3'
+        music : 'Viva-La-Vida.mp3'
     },
     {
-        img : 'IMAGENES/Coldplay.jpg',
+        img : 'Coldplay.jpg',
         name : 'A Sky Full of Stars ',
         artist : 'Coldplay',
-        music : 'MUSICA/A-Sky-Full-of-Stars-.mp3'
+        music : 'A-Sky-Full-of-Stars-.mp3'
     },
     {
-        img : 'IMAGENES/Safe-Sound.jpg',
+        img : 'Safe-Sound.jpg',
         name : 'Safe And Sound',
         artist : 'Capital Cities',
-        music : 'MUSICA/1 Safe And Sound.mp3'
+        music : '1 Safe And Sound.mp3'
     },
     {
-        img : 'IMAGENES/u2.jpg',
+        img : 'u2.jpg',
         name : 'Vertigo',
         artist : 'U2',
-        music : 'MUSICA/U2 - Vertigo.mp3'
+        music : 'U2 - Vertigo.mp3'
     }
 ];
 
